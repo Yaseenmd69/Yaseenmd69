@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+- 🤖 **AI Educator & Tech Creator** passionate about simplifying complex AI concepts through engaging educational content.<br>- 🧠 **Technical Knowledge** in Machine Learning, Deep Learning, Generative AI, LLMs, APIs, and AI-powered applications.<br>- 👨‍🏫 **AI Trainer** teaching and mentoring approximately 100 aspiring AI professionals through practical, hands-on learning.<br>- 🚀 **Continuous Learner** who enjoys exploring emerging technologies and staying updated with the latest AI innovations.<br>- 📱 **Instagram Tech Creator** sharing AI tutorials, coding concepts, technology trends, and practical use cases.<br>- 💡 **Problem Solver** interested in building intelligent solutions using AI, automation, and data-driven approaches.<br>- 🛠️ **Hands-on Experience** working with AI tools, APIs, LLM-based applications, and Generative AI workflows.<br>- 📊 **Data & AI Enthusiast** with an interest in transforming raw data into meaningful insights and intelligent solutions.<br>- 🎯 **Practical Learning Advocate** focused on connecting theoretical concepts with real-world applications and industry requirements.<br>- 🌐 **Technology Explorer** enthusiastic about experimenting with new AI tools, frameworks, libraries, and development platforms.<br>- 🗣️ **Knowledge Sharer** committed to making technical concepts accessible to beginners through simple explanations and relatable examples.<br>- 🔍 **Curious Mindset** always looking for opportunities to learn, experiment, innovate, and improve technical skills.<br>- ⚡ **Generative AI Enthusiast** exploring LLMs, prompt engineering, AI agents, and intelligent automation.<br>- 🔗 **API Integration Enthusiast** interested in connecting AI models with applications to build useful, real-world solutions.<br>- 📚 **Lifelong Learner** continuously expanding knowledge across AI, software development, data science, and emerging technologies.<br>- 🤝 **Mentor & Collaborator** passionate about helping aspiring professionals strengthen their technical knowledge and career readiness.<br>- 🎬 **Educational Content Creator** turning complex technical topics into engaging, beginner-friendly content for social media.<br>- 🧩 **Innovation Driven** motivated to experiment with new ideas and develop technology solutions that solve practical problems.<br>- 💻 **AI Application Developer Enthusiast** interested in building applications that combine LLMs, APIs, automation, and intelligent workflows.<br>- 🌟 **Career Development Focused** committed to helping learners build practical skills and prepare for opportunities in the AI industry.
 
-<!--
-**Yaseenmd69/Yaseenmd69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i.yaseen.07?igsh=MWJjbGQ4ejR6cHRiNQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaseen-mohammed-5a4ba925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaseenanas169@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yaseenmd69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yaseenmd69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yaseenmd69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Yaseenmd69&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
